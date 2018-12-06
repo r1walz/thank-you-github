@@ -2171,4 +2171,4 @@ Signed,
 - Nikolaos Dimopoulos ([@niden](https://github.com/niden)), Phalcon core team member, USA
 - Pascal Iske ([@pascaliske](https://github.com/pascaliske)), TypeScript / JavaScript Developer, Germany
 - Rohit Ashiwal ([@r1walz](https://github.com/r1walz)), Android Developer at IIT Roorkee
-- Yash Kumar Arora ([@arora-yash] (https://github.com/arora-yash)), Android Developer at Graphic Era University, Dehradun
+- Yash Kumar Arora ((@arora-yash) (https://github.com/arora-yash)), Android Developer at Graphic Era University, Dehradun
